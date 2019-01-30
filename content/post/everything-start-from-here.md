@@ -3,7 +3,6 @@ title: "My awesome post"
 date: 2019-01-29T17:09:16+05:30
 draft: false
 image: "upload/main_images/tesla.jpeg"
-tags: ["cars"]
 ---
 
 
