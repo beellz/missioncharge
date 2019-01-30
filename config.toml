@@ -1,0 +1,60 @@
+baseurl         = "hhtps://blog.missioncharge.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "missioncharge"
+  subtitle    = "All things electric "
+
+  cover       = "img/blog-cover.jpg"
+  description = "ALL things electric"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "belalthecoolboy"
+  fbName = "belalthecoolboy"
+  githubName = "beellz"
+
+  logo = ""
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "BZ"
+  authorAvatar = "img/profile-picture.jpg"
+  authorLocation = "mumbai , India"
+  authorWebsite = "https://missioncharge.com"
+  authorDescription = "beliver of electric"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "cars"
+  url = "/tags/cars/"
+  weight = 100
+
+[[menu.main]]
+  name = "bike"
+  url = "/categories/bike/"
+  weight = 99
+
+[[menu.main]]
+  name = "External"
+  url = "https://google.com/"
+  weight = 95
