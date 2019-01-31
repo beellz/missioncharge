@@ -1,7 +1,7 @@
 ---
 title: kill bill
 date: 2019-01-31T12:50:08.992Z
-draft: true
+draft: false
 categories: Podcast
 tags:
   - bike
