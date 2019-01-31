@@ -6,9 +6,9 @@ media_folder: "static/upload"
 public_folder: "upload"
 
 collections:
-  - name: "posts"
-    label: "Post"
-    folder: "content/posts"
+  - name: "cars"
+    label: "car"
+    folder: "content/cars"
     filter:
       field: language
       value: en
