@@ -6,10 +6,11 @@ media_folder: "static/upload"
 public_folder: "upload"
 
 collections:
-  - name: "post"
-    label: "post"
-    folder: "content/post"
-    create: true
-    slug: "{{year}}-{{slug}}"
-
-    
+  - name: "posts"
+    label: "Post"
+    folder: "_posts"
+    filter:
+      field: language
+      value: en
+    fields:
+      - {label: "Language", name: "language"}
