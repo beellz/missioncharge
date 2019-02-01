@@ -10,7 +10,8 @@ collections:
     label: "cars"
     folder: "content/cars"
     filter:
-      field: language
-      value: en
+    field: language
+    value: en
+    create: true
     fields:
       - {label: "Language", name: "language"}
