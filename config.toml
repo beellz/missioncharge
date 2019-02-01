@@ -1,7 +1,7 @@
 baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
-disqusShortname = ""
+disqusShortname = "missioncharge"
 paginate        = 6
 #SectionPagesMenu = "main"
 
@@ -22,12 +22,12 @@ paginate        = 6
 
   logo = ""
   orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  orgWebsite = "https://www.missioncharge.com"
+  orgDescription = "ALL Things Electric"
 
   author = "BZ"
   authorAvatar = "img/profile-picture.jpg"
-  authorLocation = "mumbai , India"
+  authorLocation = "Mumbai , India"
   authorWebsite = "https://missioncharge.com"
   authorDescription = "beliver of electric"
 
@@ -46,15 +46,15 @@ paginate        = 6
 
 [[menu.main]]
   name = "cars"
-  url = "/tags/cars/"
+  url = "/content/cars"
   weight = 100
 
 [[menu.main]]
   name = "bike"
-  url = "/categories/bike/"
+  url = "/content/bike"
   weight = 99
 
 [[menu.main]]
-  name = "External"
-  url = "https://google.com/"
+  name = "Electric"
+  url = "/content/electric"
   weight = 95
