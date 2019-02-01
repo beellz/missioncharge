@@ -4,7 +4,6 @@ title: "My awesome post"
 date: 2019-01-29
 draft: false
 categories: bike
-tags: 
 author: BZ
 authorImage: upload/
 image: "upload/main_images/tesla.jpeg"
