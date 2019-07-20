@@ -9,7 +9,7 @@ authorImage: upload/
 image: "upload/main_images/tesla.jpeg"
 comments: true
 type: post
-
+tags: ["bike"]
 ---
 
 
