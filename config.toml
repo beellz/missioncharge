@@ -20,13 +20,13 @@ paginate        = 6
   fbName = "belalthecoolboy"
   githubName = "beellz"
 
-  logo = "uploads/BZ.png"
+  logo = "upload/BZ.png"
   orgName = "EM"
   orgWebsite = "Missioncharge"
   orgDescription = "ALL Things Electric"
 
   author = "BZ"
-  authorAvatar = "uploads/logo-avatar.jpg"
+  authorAvatar = "upload/logo-avatar.jpg"
   authorLocation = "Mumbai , India"
   authorWebsite = "https://missioncharge.com"
   authorDescription = "beliver of electric"
