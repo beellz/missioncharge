@@ -48,7 +48,7 @@ collections:
       - {label: Type, name: type, widget: hidden, default: "post"}
       - {label: "Body", name: "body", widget: "markdown"}
     
-    name: "electric"
+  - name: "electric"
     label: "electric"
     folder: "content/electric"
     field: language
