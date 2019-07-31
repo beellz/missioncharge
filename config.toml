@@ -51,10 +51,10 @@ paginate        = 6
 
 [[menu.main]]
   name = "bike"
-  url = "/tags/bike"
+  url = "/bike"
   weight = 99
 
 [[menu.main]]
   name = "Electric"
-  url = "/tags/electric"
+  url = "/electric"
   weight = 95
