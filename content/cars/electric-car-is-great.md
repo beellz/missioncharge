@@ -6,6 +6,7 @@ image: /upload/whatsapp-image-2019-01-15-at-3.32.52-pm.jpeg
 comments: true
 share: true
 tags: ["cars"]
+categories: cars
 ---
 # This is great 
 
