@@ -46,7 +46,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "cars"
-  url = "/tags/cars"
+  url = "/cars"
   weight = 100
 
 [[menu.main]]
