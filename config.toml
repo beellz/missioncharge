@@ -45,16 +45,16 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "cars"
-  url = "/cars"
+  name = "projects"
+  url = "/projects"
   weight = 100
 
 [[menu.main]]
-  name = "bike"
-  url = "/bike"
+  name = "article"
+  url = "/article"
   weight = 99
 
 [[menu.main]]
-  name = "Electric"
-  url = "/electric"
+  name = "youtube"
+  url = "https://www.youtube.com/channel/UC7xs-jRRKH_1piJv2HiC1bA"
   weight = 95
