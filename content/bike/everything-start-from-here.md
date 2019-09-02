@@ -1,7 +1,7 @@
 ---
-title: 'this is a try post '
+title: 'The try post  '
 date: 2019-09-02T12:30:05.625Z
-draft: true
+draft: false 
 comments: true
 share: true
 ---
@@ -13,4 +13,5 @@ share: true
 
 ```
 sudo apt-get install tmux
+ctrl+b ctrl+c to creat a new terminal window
 ```
