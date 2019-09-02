@@ -1,26 +1,16 @@
-
 ---
-title: "My awesome post"
-date: 2019-01-29
+title: 'this is a try post '
+date: 2019-09-02T12:30:05.625Z
 draft: false
-categories: bike
-author: BZ
-authorImage: upload/
-image: "upload/main_images/tesla.jpeg"
 comments: true
-type: post
-tags: ["bike"]
+share: true
 ---
-
-
 # this is a header
 
-## this is a content 
-
-![This is an image](/upload/boat.jpg) 
+## this is a content
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c7vpcqA6SEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-``` 
+```
 sudo apt-get install tmux
 ```
