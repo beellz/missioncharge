@@ -35,9 +35,11 @@ SEATS: 5
 
 ![Hyundai Kona Electric](/upload/hyundai-electric.jpg "Hyundai Kona Electric Range")
 
+
+
 <iframe width="956" height="538" src="https://www.youtube.com/embed/PfUpTSLP9Nc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-TATA Tigor EV
+## TATA Tigor EV
 
 Price: 9.17 to 9.75 Lakhs
 
@@ -46,6 +48,8 @@ Range: 213 Kilometres
 BHP: 40.23 
 
 Seats: 5
+
+![TATA Tigor EV](/upload/tata-tigor-ev.jpg "TATA Tigor EV Range in India")
 
 <iframe width="956" height="538" src="https://www.youtube.com/embed/DOElZvNNQnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -61,7 +65,7 @@ Seats: 5
 
 <iframe width="956" height="538" src="https://www.youtube.com/embed/GX6ffpzm2sI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Mahindra e20Plus
+## Mahindra e20Plus
 
 Price: 6.07 to 6.83 Lakhs
 
@@ -70,5 +74,7 @@ Range: 110 Kilometres
 BHP: 25.4
 
 Seats: 4
+
+![Mahindra e20Plus range in india](/upload/mahindra-e20plus.webp "Mahindra e20Plus range in India")
 
 <iframe width="956" height="538" src="https://www.youtube.com/embed/MY0Bk2M2pdQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
