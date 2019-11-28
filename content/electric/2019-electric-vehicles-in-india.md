@@ -1,7 +1,7 @@
 ---
 title: Electric Vehicles in India
 date: 2019-11-28T03:57:01.093Z
-draft: true
+draft: false
 categories: bike
 author: Chris Stayte
 authorImage: uploads/chrisstayte_profilepic.jpg
